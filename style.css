@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento',cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+    color: #11999E;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+p{
+    line-height: 2;
+}
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.middle-container{
+    padding: 100px 0;
+   margin:0;
+   background-color: #E4F9F5;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+}
+.my-photo{
+    width: 12.5%;
+}
+.code-photo{
+    width: 25%;
+    float: left;
+    margin-right: 0px;
+}
+.chilli-photo{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.pro{
+    text-decoration: underline;
+}
+.contact-message{
+    width:25%;
+    margin: 40px auto;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top:40px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom:300px;
+}
+.btn {
+    background: #11cdd4;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 100px auto 100px;
+  }
+  .btn:hover {
+    background: #30e3cb;
+    text-decoration: none;
+  }
+  hr{
+  border: dotted rgb(137, 135, 135) 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+  }
+  a{
+    color: #075456;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #EAF6F6;
+  }
+  .copyright{
+    color: #EAF6F6;
+    font-size: 1rem;
+    padding: 20px 0;
+  }
